@@ -21,7 +21,27 @@ namespace CodingLabpro
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //GPIB0::26::INSTR address of your IEEE-488 device
+            string deviceAddress = "GPIB0::26::INSTR";
 
+            //Create a new VisaResourceManager
+            using (var visaResourceManager = new ResourceManager())
+            {
+                //Open a connection to the device 
+                using (var device = visaResourceManager.Open(deviceAddress))
+                {
+                    // Send a command to the device 
+                    string command = "IDN?";
+                    device.Write(command);
+
+                    // Read the response from the device
+                    string response = device.ReadString();
+
+
+                    Console.WriteLine("Response from device: " + response);
+
+                }
+            }
         }
     }
 }
