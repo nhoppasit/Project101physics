@@ -13,7 +13,7 @@ use to making hardware **MMC-2**
 ![Screenshot 2024-02-20 174534](https://github.com/Oak-surachet007x/Project101physics/assets/117011637/7279532d-33e8-49a9-b056-b74c4d85f287)
 
 
-Recommended to close **VS Studio** Before.
+Recommended save Project Before and to close **VS Studio**.
 **After** commit to github desktop
 
 ***for Team Project 1 Physics KMITL***
