@@ -3,7 +3,7 @@ use to making hardware **MMC-2**
 
 ## introduction :memo::speech_balloon:
 - write code connect MMC-2 By C# [WindowsForm.NET Framework](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-8.0). :art:
-- install [Keysight Connection Expert](https://www.keysight.com/zz/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html).:hammer:
+- install [Keysight Connection Expert](https://www.keysight.com/zz/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html). :hammer:
 - install [github desktop](https://desktop.github.com/). :rocket: for Push up and Clone Repository to your pc. :hammer:
 - install [git](https://git-scm.com/). for command in **VS Studio**:hammer:
 - install driver MMC-2
