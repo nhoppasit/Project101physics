@@ -6,3 +6,7 @@ use to making hardware **MMC-2**
 - install Keysight Command Expert
 - install [github desktop](https://desktop.github.com/). :rocket: for Pull up and Clone Repository. 
 - install [git](https://git-scm.com/). for command in **VS Studio**
+- install driver MMC-2
+- install IOLibrary
+
+**for KMITL
