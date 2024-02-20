@@ -10,7 +10,8 @@ use to making hardware **MMC-2**
 - install IOLibrary
 
 ## :rotating_light: warnings.
-![](https://drive.google.com/file/d/1_CCdxl9oF-Ik5IHDfBWOeKXlhD-dabuU/view?usp=sharing)
+![Screenshot 2024-02-20 174534](https://github.com/Oak-surachet007x/Project101physics/assets/117011637/7279532d-33e8-49a9-b056-b74c4d85f287)
+
 
 Recommended to close **VS Studio** Before.
 **After** commit to github desktop
