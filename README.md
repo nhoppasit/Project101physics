@@ -9,4 +9,10 @@ use to making hardware **MMC-2**
 - install driver MMC-2
 - install IOLibrary
 
+## :rotating_light: warnings.
+![](https://drive.google.com/file/d/1_CCdxl9oF-Ik5IHDfBWOeKXlhD-dabuU/view?usp=sharing)
+
+Recommended to close **VS Studio** Before.
+**After** commit to github desktop
+
 ***for Team Project 1 Physics KMITL***
