@@ -32,7 +32,7 @@ namespace CodingLabpro
                 {
                     // Send a command to the device 
                     string command = "IDN?";
-                    device.Write(command );
+                    device.Write(command);
 
                     // Read the response from the device
                     string response = device.ReadString();
