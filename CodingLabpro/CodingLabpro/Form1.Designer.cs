@@ -38,7 +38,7 @@
             this.txtDMMAddress.Name = "txtDMMAddress";
             this.txtDMMAddress.Size = new System.Drawing.Size(75, 23);
             this.txtDMMAddress.TabIndex = 0;
-            this.txtDMMAddress.Text = "button1";
+            this.txtDMMAddress.Text = "Connect";
             this.txtDMMAddress.UseVisualStyleBackColor = true;
             this.txtDMMAddress.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -48,7 +48,7 @@
             this.txtMMC2Address.Name = "txtMMC2Address";
             this.txtMMC2Address.Size = new System.Drawing.Size(75, 23);
             this.txtMMC2Address.TabIndex = 1;
-            this.txtMMC2Address.Text = "button2";
+            this.txtMMC2Address.Text = "Diconnect";
             this.txtMMC2Address.UseVisualStyleBackColor = true;
             // 
             // Form1

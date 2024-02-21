@@ -15,8 +15,8 @@ namespace CodingLabpro
         public Form1()
         {
             InitializeComponent();
-            txtDMMAddress.Text = Properties.Settings.Default.DMMAddress;
-            txtMMC2Address.Text = Properties.Settings.Default.MMC2Address;
+            txtDMMAddress.Text = "GPIB0::26::INSTR";
+            //txtMMC2Address.Text = Properties.Settings.Default.MMC2Address;
         }
 
         private void button1_Click(object sender, EventArgs e)
