@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "CodingLabpro\\Form1.cs",
               "ToolTip": "C:\\Users\\Sci-Neon\\Desktop\\Project101physics\\CodingLabpro\\CodingLabpro\\Form1.cs",
               "RelativeToolTip": "CodingLabpro\\Form1.cs",
-              "ViewState": "AQIAAA0AAABgZmZmZmYowBEAAAA0AAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-20T10:56:59.046Z",
               "IsPinned": true,
@@ -55,10 +55,6 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
@@ -67,8 +63,7 @@
               "ToolTip": "C:\\Users\\Sci-Neon\\Desktop\\Project101physics\\CodingLabpro\\CodingLabpro\\Form1.cs [Design]",
               "RelativeToolTip": "CodingLabpro\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T10:27:16.218Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-02-20T10:27:16.218Z"
             }
           ]
         }

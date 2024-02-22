@@ -1,0 +1,5 @@
+C:\Users\Sci-Neon\Desktop\Project101physics\CodingLabpro\CodingLabpro\obj\Debug\CodingLabpro.csproj.AssemblyReference.cache
+C:\Users\Sci-Neon\Desktop\Project101physics\CodingLabpro\CodingLabpro\obj\Debug\CodingLabpro.Form1.resources
+C:\Users\Sci-Neon\Desktop\Project101physics\CodingLabpro\CodingLabpro\obj\Debug\CodingLabpro.Properties.Resources.resources
+C:\Users\Sci-Neon\Desktop\Project101physics\CodingLabpro\CodingLabpro\obj\Debug\CodingLabpro.csproj.GenerateResource.cache
+C:\Users\Sci-Neon\Desktop\Project101physics\CodingLabpro\CodingLabpro\obj\Debug\CodingLabpro.csproj.CoreCompileInputs.cache
