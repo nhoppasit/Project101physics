@@ -30,7 +30,6 @@
         {
             this.txtDMMAddress = new System.Windows.Forms.Button();
             this.txtMMC2Address = new System.Windows.Forms.Button();
-            this.txtResponse = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txtDMMAddress
@@ -52,32 +51,23 @@
             this.txtMMC2Address.Text = "Diconnect";
             this.txtMMC2Address.UseVisualStyleBackColor = true;
             // 
-            // txtResponse
-            // 
-            this.txtResponse.Location = new System.Drawing.Point(192, 112);
-            this.txtResponse.Name = "txtResponse";
-            this.txtResponse.Size = new System.Drawing.Size(100, 20);
-            this.txtResponse.TabIndex = 3;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(673, 350);
-            this.Controls.Add(this.txtResponse);
             this.Controls.Add(this.txtMMC2Address);
             this.Controls.Add(this.txtDMMAddress);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-        private System.Windows.Forms.Button txtMMC2Address;
-        private System.Windows.Forms.TextBox txtResponse;
+
         private System.Windows.Forms.Button txtDMMAddress;
+        private System.Windows.Forms.Button txtMMC2Address;
     }
 }
 
