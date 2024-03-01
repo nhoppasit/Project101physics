@@ -58,8 +58,12 @@
             this.ClientSize = new System.Drawing.Size(673, 350);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Enabled = false;
             this.Name = "Form1";
+            this.ShowIcon = false;
+            this.ShowInTaskbar = false;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
